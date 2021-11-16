@@ -1,2 +1,2 @@
 # Javass
-Swiss card game in java
+Jass card game in java
