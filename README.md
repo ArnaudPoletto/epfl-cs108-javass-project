@@ -13,13 +13,13 @@ To get started with the Jass game in Java, follow these simple steps:
 3. Open a terminal or command prompt.
 4. Navigate to the directory containing JassGame.java.
 5. Compile the Java file using the following command:
-  ```
-  javac JassGame.java
-  ```
-  Run the compiled file with the following command:
-  ```
-  java JassGame
-  ```
+    ```
+    javac JassGame.java
+    ```
+    Run the compiled file with the following command:
+    ```
+    java JassGame
+    ```
 
 ## How to Play
 
